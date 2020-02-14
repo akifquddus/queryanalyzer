@@ -1,0 +1,16 @@
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\appsettings.Development.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\appsettings.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\WebApiR.deps.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\WebApiR.runtimeconfig.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\WebApiR.runtimeconfig.dev.json
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\WebApiR.dll
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\bin\Release\netcoreapp2.1\WebApiR.pdb
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.csprojAssemblyReference.cache
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.RazorAssemblyInfo.cache
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.RazorAssemblyInfo.cs
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.AssemblyInfoInputs.cache
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.AssemblyInfo.cs
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.RazorTargetAssemblyInfo.cache
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.dll
+F:\Akif I\MSUniversityDocuments\FirstSemester\AppliedCSProject\baba\backend\WebApiR\obj\Release\netcoreapp2.1\WebApiR.pdb
