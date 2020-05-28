@@ -40,3 +40,17 @@ C:\Users\gusmao\Desktop\Angular template\Nova pasta\JWT-Authentication-with-.Net
 C:\Users\gusmao\Desktop\Angular template\Nova pasta\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\gusmao\Desktop\Angular template\Nova pasta\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 C:\Users\gusmao\Desktop\Angular template\Nova pasta\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb

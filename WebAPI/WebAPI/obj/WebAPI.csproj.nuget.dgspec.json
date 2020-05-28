@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusmao\\Desktop\\Angular template\\Nova pasta\\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "D:\\Programming\\git\\Integration project (IMT 4807)\\queery analyzer\\queryanalyzer\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusmao\\Desktop\\Angular template\\Nova pasta\\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "D:\\Programming\\git\\Integration project (IMT 4807)\\queery analyzer\\queryanalyzer\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusmao\\Desktop\\Angular template\\Nova pasta\\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "D:\\Programming\\git\\Integration project (IMT 4807)\\queery analyzer\\queryanalyzer\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\gusmao\\Desktop\\Angular template\\Nova pasta\\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "D:\\Programming\\git\\Integration project (IMT 4807)\\queery analyzer\\queryanalyzer\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\gusmao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusmao\\Desktop\\Angular template\\Nova pasta\\JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7-master\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "D:\\Programming\\git\\Integration project (IMT 4807)\\queery analyzer\\queryanalyzer\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -43,6 +43,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "Google.Cloud.Language.V1": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",

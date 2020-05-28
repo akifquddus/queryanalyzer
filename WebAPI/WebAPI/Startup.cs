@@ -15,6 +15,8 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using WebAPI.Models;
+using WebAPI.Business;
+using Google.Cloud.Language.V1;
 
 namespace WebAPI
 {
@@ -30,6 +32,14 @@ namespace WebAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
+            //Google configuration
+            string credential_path = @"D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\Business\GoogleApiSettings\myfirstproject-9aa8cbb63555.json";
+            System.Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credential_path);
+
+
+
+
             //Inject AppSettings
             services.Configure<ApplicationSettings>(Configuration.GetSection("ApplicationSettings"));
 

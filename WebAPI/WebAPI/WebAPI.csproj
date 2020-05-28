@@ -6,10 +6,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Google.Cloud.Language.V1" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Business\GoogleApiCalls\" />
+    <Folder Include="Business\GoogleApiSettings\" />
+    <Folder Include="NovaPasta\NovaPasta1\" />
+    <Folder Include="NovaPasta\NovaPasta\" />
   </ItemGroup>
 
 </Project>
