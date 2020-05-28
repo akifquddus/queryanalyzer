@@ -1,0 +1,270 @@
+/* mNormalization */
+body {
+	position: relative;
+	font-family: Helvetica, Arial, Georgia, sans-serif,serif ;
+	font-size: 16px;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+ul,ol {
+	line-height: 0;
+	padding: 0;
+	margin: 0;
+}
+h1 {
+	color:  #0066ff;
+	padding-bottom: 10px;
+	margin-bottom: 0;
+}
+a {
+	text-decoration: none;
+}
+
+.nonlist {
+	list-style-type: none;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+.center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.center button {
+	margin-left: auto;
+    margin-right: auto;	
+}
+.container {
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+}
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #00aced;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+.button:hover {background-color: #00aced}
+
+.button:active {
+  background-color: #00aced;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+/*Filterization Button*/
+.button2 {
+  display: inline-block;
+  padding: 15px 45px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0066ff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  left: 1000px;
+  top: 500px;
+  position: fixed;
+}
+
+.button2:hover {background-color: #3385ff}
+
+.button2:active {
+  background-color: #3385ff;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+/*End Filterization Button*/
+/*Stage 2*/
+.button3 {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  left: 290px;
+  top: 150px;
+  position: fixed;
+}
+
+.button3:hover {background-color: lightskyblue}
+
+.button3:active {
+  background-color: lightskyblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button4 {
+  display: inline-block;
+  padding: 15px 30px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: yellowgreen;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  right: 290px;
+  top: 150px;
+  position: fixed;
+}
+
+.button4:hover {background-color: lightgreen}
+
+.button4:active {
+  background-color: lightgreen;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button5 {
+  display: inline-block;
+  padding: 15px 45px;
+  font-size: 18px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #0066ff;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+  left: 1000px;
+  top: 500px;
+  position: fixed;
+}
+
+.button5:hover {background-color: #3385ff}
+
+.button5:active {
+  background-color: #3385ff;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+/*End Stage 2*/
+/* End Normalization */
+/* Header */
+.header  {
+	background-color: black;
+	height: 60px;
+	font-family: Georgia;
+	width: 100%;
+}
+.header img {
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+}
+.header h2 {
+	color: white;
+	margin-top: 20px;
+	margin-right: 600px;
+
+}
+/*End Header*/
+/* Navigation */
+.nav {
+	background-color:#9999ff;
+	height: 60px;
+	font-family: Helvetica;
+}
+.nav ul {
+	line-height: 80px;
+}
+.nav ul li {
+	text-align: center;
+	display: inline;
+	font-size: 18px;
+	padding: 20px;
+	width: 50%;
+	color: #fff;
+	border-left: 0.2px solid #fff;
+}
+.nav .line {
+	margin-left: 100px;
+	border:none;
+}
+/* End Navigation */
+/*Body*/
+
+.body {
+	background-color: lightblue;
+}
+.body .search-container {
+  	position: relative;
+}
+.body input[type=text] {
+  padding: 8px;
+  margin-top: 8px;
+  margin-left: 140px;
+  font-size: 17px;
+  width: 600px;
+  border: 1px solid #ebf0fa;
+
+}
+.body input[type=number]{
+	padding: 8px;
+  	margin-top: 8px;
+  	margin-left: 140px;
+  	font-size: 17px;
+  	border: 1px solid #ebf0fa;
+  	width: 200px;
+
+}
+.body select {
+	padding: 8px;
+  	margin-top: 8px;
+  	margin-left: 140px;
+  	font-size: 17px;
+  	border: 1px solid #ebf0fa;
+  	width: 200px;
+
+}
+.container2 {
+  width: 200px;
+  margin: 0 auto;
+
+}
+.pros p {
+  margin-top: 180px;
+  font-weight: bold;
+  position: fixed;
+  width: 200px;
+}
+/*End Body*/
+
