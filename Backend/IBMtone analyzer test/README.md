@@ -46,7 +46,7 @@ const toneAnalyzer = new ToneAnalyzerV3({
   authenticator: new IamAuthenticator({
     apikey: '{apikey}',
   }),
-  url: '{url}',
+  url: 'https://api.eu-de.tone-analyzer.watson.cloud.ibm.com',
 });
 
 const text = 'Team, I know that times are tough! Product '
