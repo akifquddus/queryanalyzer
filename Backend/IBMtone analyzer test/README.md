@@ -33,7 +33,7 @@ In order to run project please follow the
     ```
     
     
-SDK managing the IAM token. Replace {apikey}, {version}, and {url}.
+SDK managing the IAM token. 
 ```
 const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
 const { IamAuthenticator } = require('ibm-watson/auth');
