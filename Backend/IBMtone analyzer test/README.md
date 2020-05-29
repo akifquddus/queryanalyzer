@@ -43,7 +43,7 @@ const toneAnalyzer = new ToneAnalyzerV3({
   authenticator: new IamAuthenticator({
     apikey: '{apikey}',
   }),
-  url: '{url}',
+  url: 'https://api.eu-de.tone-analyzer.watson.cloud.ibm.com',
 });
 ```
 
