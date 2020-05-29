@@ -31,7 +31,24 @@ In order to run project please follow the
     TONE_ANALYZER_URL=https://gateway-wdc.watsonplatform.net/tone-analyzer/api
     ```
     ```
+    
+    
+SDK managing the IAM token. Replace {apikey}, {version}, and {url}.
+
+const ToneAnalyzerV3 = require('ibm-watson/tone-analyzer/v3');
+const { IamAuthenticator } = require('ibm-watson/auth');
+
+const toneAnalyzer = new ToneAnalyzerV3({
+  version: '{version}',
+  authenticator: new IamAuthenticator({
+    apikey: '{apikey}',
+  }),
+  url: '{url}',
+});
+
+
 ## Running locally
+
 
 1. Install the dependencies
 
