@@ -34,6 +34,7 @@ namespace WebAPI
         {
 
             //Google configuration
+            //Include in credential_path the path for the google cloud API key
             string credential_path = @"D:\Programming\git\Integration project (IMT 4807)\queery analyzer\queryanalyzer\WebAPI\WebAPI\Business\GoogleApiSettings\myfirstproject-9aa8cbb63555.json";
             System.Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", credential_path);
 
