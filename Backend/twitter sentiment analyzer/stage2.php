@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Stage 2 : Sentiment Analysis</title>
+		<title>Stage 2 : Twitter Sentiment Analysis</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<script src="js/Chart.js"></script>
 		<script src="js/jquery-3.3.1.min.js"></script>
